@@ -10,6 +10,11 @@ crosshair-suite/node_modules/
 crosshair-suite/dist/
 crosshair-suite/.env/
 crosshair-suite/package-lock.json
+node_modules/
+dist/
+.env/
+package-lock.json
+python/venv/
 
 # Distribution / packaging
 .Python

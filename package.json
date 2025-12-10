@@ -1,0 +1,17 @@
+{
+  "name": "crosshair-suite",
+  "description": "Crosshair Suite: an alternative to Crosshair-X",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "devDependencies": {
+    "electron": "^39.2.6"
+  }
+}
