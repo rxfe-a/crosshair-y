@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+crosshair-suite/node_modules/
+crosshair-suite/dist/
+crosshair-suite/.env/
+crosshair-suite/package-lock.json
+
 # Distribution / packaging
 .Python
 build/
